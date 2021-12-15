@@ -1,0 +1,46 @@
+nav {
+    margin-bottom: 30px;
+}
+
+fieldset {
+    background-color: #f8f9fa;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 2%;
+    border: 1px solid #e0dfdf;
+    border-radius: 10px
+}
+
+/* table {
+    text-align: center;
+} */
+
+.onColumn {
+    width: 60%;
+}
+
+#muestreo {
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+.right-flex {
+    justify-content: flex-end;
+}
+
+
+.page-footer, .page-header {
+    display: none;
+}
+
+/* 
+FIX MENU
+*/
+
+.collapse {
+     overflow: visible;
+}
+
+.mr-auto {
+    margin-right: inherit;
+} 
